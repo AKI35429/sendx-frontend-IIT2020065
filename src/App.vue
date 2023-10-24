@@ -1,45 +1,45 @@
 <template>
-  
     <Navigation/>
     <Dashboard/>
-    <Type/>
-    <Design/>
+    <!-- <appPost/> -->
+    <!-- <Type/> -->
+    <!-- <Design/> -->
+    <!-- <Success/> -->
+    <!-- <Advanced/> -->
+    <!-- <Behaviour/> -->
     <!-- <Content/> -->
-<RouterView/>
+    <!-- <Target/> -->
+    <RouterView/>
 </template>
 
 <script setup>
 import { RouterView } from 'vue-router';
-import Navigation from "./components/Navigation.vue";
+import Navigation from './components/Navigation.vue';
 import Dashboard from './components/Dashboard.vue';
 import Content from './components/Form/Content.vue';
 import Type from './components/Form/Type.vue';
 import Design from './components/Form/Design.vue';
+import Success from './components/Form/Success.vue';
+import Advanced from './components/Form/Advanced.vue';
+import Behaviour from './components/Form/Behaviour.vue';
+import Target from './components/Form/Target.vue';
+import appPost from './components/Form/appPost.vue';
+// export default{
+//     components:{
+//         Navigation,
+//         Dashboard,
+//         Content,
+//         Type,
+//         Design,
+//         Success,
+//         Advanced,
+//         Behaviour,
+//         Target,
+//         Post
+//     },
+// };
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 </style>
-
-<!-- <template>
-<div>
-  <Navigation/>
-  <RouterView/
-</div>
-</template>
-
-<script>
-import { RouterView } from 'vue-router';
-import Dashboard from './components/Dashboard.vue';
-export default {
-    data() {
-        return {
-            title: 'Vue.js SPA Example',
-            currentPage: 'home',
-        };
-    },
-    components: { RouterView }
-};
-</script>
-
-<style>/* Add your CSS styles here */</style> -->
