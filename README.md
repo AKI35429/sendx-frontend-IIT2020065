@@ -1,6 +1,6 @@
 # SendX Frontend (IIT2020065)
 
-Welcome to the SendX Frontend project!👋 This is a single-page application created using Vue.js and styled with Tailwind CSS.
+Welcome to the SendX Frontend project!👋 This is a single-page application created using Vue.js and styled with Tailwind CSS. I also integrated the content page with [Unlayer email-editor](https://github.com/unlayer/vue-email-editor).
 
 ## About the Author
 
@@ -30,13 +30,15 @@ To run this app on your local machine, follow these simple steps:
 
 
 ## Video link of the demo: 
-[Link]()
+[Link](https://drive.google.com/file/d/167_gvW49LSPlPpu3tslmIPjOrOQkTFzy/view?usp=sharing)
 <br><br>
 
-## ➡️Peakview:🧐
+## ➡️SneakView:🧐
 ![img1](https://github.com/AKI35429/sendx-frontend-IIT2020065/assets/76589891/92d29904-2b4b-4a9f-ab82-f7a2559bbf8e)
 <br><br>
 ![img2](https://github.com/AKI35429/sendx-frontend-IIT2020065/assets/76589891/fbd3b0ed-e6c6-4fcd-93c7-76dfa23e3a6a)
+<br><br>
+![img8](https://github.com/AKI35429/sendx-frontend-IIT2020065/assets/76589891/d0891ae7-4058-406f-9e84-3ae262e61c29)
 <br><br>
 ![img3](https://github.com/AKI35429/sendx-frontend-IIT2020065/assets/76589891/76a1b8d3-3605-4d00-bfb4-7b3b6f325faf)
 <br><br>
